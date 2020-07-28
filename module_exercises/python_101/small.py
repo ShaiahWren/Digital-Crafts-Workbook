@@ -60,14 +60,28 @@
 #     c += 1
 
 ## 8
-start = int(input("Start number: "))
-end = int(input("End number: "))
-c = start
+# start = int(input("Start number: "))
+# end = int(input("End number: "))
+# c = start
 
-while c <= end:
-    print(c)
-    c += 1
+# while c <= end:
+#     print(c)
+#     c += 1
 
 ## 9
+
+# for i in range(0, 5):
+#     for i in range(0, 5):
+#         print("*", end= " ")
+#     print()
+
+## 10
+# side_len = int(input("Enter side length: "))
+
+# for i in range(0, side_len):
+#     for i in range(0, side_len):
+#         print("*", end= " ")
+#     print()
+
 
 
