@@ -13,6 +13,11 @@
 * dictionaries
 * lists
 
+### Functions
+
+### Mapping
+
+### Object-oriented programming
 
 
 
