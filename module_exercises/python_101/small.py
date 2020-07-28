@@ -39,12 +39,35 @@
 #         print("Try again")
 
 ## 5
-while True:
-    day = int(input('Day (0-6)? '))
-    if day == 5 or day == 6:
-        print("Sleep in")
-    elif day == 0 or day == 1 or day == 2 or day == 3 or day == 4:
-        print("Wake up!!")
-    else:
-        print("Try again")
+# while True:
+#     day = int(input('Day (0-6)? '))
+#     if day == 5 or day == 6:
+#         print("Sleep in")
+#     elif day == 0 or day == 1 or day == 2 or day == 3 or day == 4:
+#         print("Wake up!!")
+#     else:
+#         print("Try again")
+
+## 6
+# cel = int(input("Enter temp in Celcius: "))
+# faren = (float(cel) * 1.8) + 32
+# print(f"{faren}  F")
+
+## 7
+# c = 1
+# while c <= 10:
+#     print(c)
+#     c += 1
+
+## 8
+start = int(input("Start number: "))
+end = int(input("End number: "))
+c = start
+
+while c <= end:
+    print(c)
+    c += 1
+
+## 9
+
 
